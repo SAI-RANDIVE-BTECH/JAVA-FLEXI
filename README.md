@@ -20,3 +20,4 @@ PlaintextJava-Flexi/
 4. java HelloWorld
 🧠 Core Concepts Tracked Fundamental Syntax[ ] Object-Oriented Programming (OOP)[ ] Exception Handling[ ] Collections Framework[ ] Multi-threading & Streams✍️ ReflectionsDay 1: Finally understood the difference between print and println!Day 2: Working with the Scanner class was fun.Happy Coding! 💻Created with ❤️ by SAI RANDIVE
 25070122509 SY CSE B
+
